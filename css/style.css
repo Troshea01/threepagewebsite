@@ -1,0 +1,326 @@
+.container {
+  width: 1366px;
+  display: block;
+  margin: 0 auto;
+}
+.topbar {
+  background-color: #58616a;
+  color:#ffffff;
+  padding:15px 0;
+}
+.login-signup button {
+  border:none;
+  background-color: #ff931e;
+  color:#ffffff;
+  font-weight: bold;
+  padding:10px 15px;
+  margin-right:25px;
+}
+.login-signup button:hover {
+  background-color: #555555;
+  color: #eeeeee;
+}
+button:focus {
+  outline:none;
+}
+.topbar input {
+  border:none;
+  background: #efefef;
+  padding:10px 5px;
+}
+.white {
+  color:#ffffff;
+}
+.white::-webkit-input-placeholder {
+    color: #333333;
+}
+.dark {
+  color:#333333;
+}
+.search{
+  margin-right:25px;
+}
+.float-right {
+  float:right;
+}
+.clearfix {
+  display:block;
+  width: 100%;
+  clear: both;
+  float: none;
+}
+section {
+  width: 100%;
+}
+.navbar nav ul li{
+  font-family: 'Rye', cursive;
+  padding: 10px 5px 10px 0px;
+  display: inline-block;
+  font-size: 15px;
+  margin-left:75px;
+  color: #ffffff;
+}
+.navbar ul{
+  background-color: #333333;
+  padding-left: 280px;
+}
+.banner-image h1{
+position: absolute;
+padding-top: 250px;
+padding-left: 50px;
+}
+.logo img{
+position: absolute;
+padding-left: 30px;
+padding-top: 30px;
+}
+
+
+
+
+.about-section h1{
+font-family: 'Rye', cursive;
+text-align: center;
+background-color: #333333;
+color: #ffffff;
+padding: 30px 639px;
+font-size: 25px;
+margin-top:600px;
+}
+.wildfire-collective-logo img{
+position: absolute;
+padding: 35px;
+margin-left: 545px;
+}
+.about-section p{
+  position: absolute;
+  text-align: center;
+  padding-top: 300px;
+  padding-right: 20px;
+  margin-left: 80px;
+  margin-right: 80px;
+  color: #ffffff;
+}
+
+
+
+
+.service-heading h1{
+font-family: 'Rye', cursive;
+text-align: center;
+background-color: #333333;
+color: #ffffff;
+padding: 30px 621px;
+font-size: 25px;
+margin-top:620px;
+}
+.service-section img{
+  padding: 50px;
+  display: inline-block;
+}
+.service-variety a{
+text-align: center;
+margin-left: 60px;
+font-size: 30px;
+}
+.service-images{
+  padding-top: 30px;
+}
+.service-images img:hover {
+  background-color: #ff931e;
+  color: #eeeeee;
+}
+.piercing a{
+  position: absolute;
+ padding-top: 150px;
+ padding-left: 85px;
+ color: #ff931e;
+ font-size: 40px;
+}
+.tattoo a{
+  position: absolute;
+ padding-top: 150px;
+ padding-left: 555px;
+ color: #ff931e;
+ font-size: 40px;
+}
+.scarification a{
+  position: absolute;
+ padding-top: 160px;
+ padding-left: 948px;
+ color: #ff931e;
+ font-size: 28px;
+}
+.booking-button{
+  padding-top: 50px;
+  padding-bottom: 60px;
+}
+.booking-button button{
+  border:none;
+  background-color: #ff931e;
+  color:#ffffff;
+  font-size: 25px;
+  padding:20px 105px;
+  margin-left: 440px;
+}
+.booking-button button:hover {
+  background-color: #555555;
+  color: #eeeeee; 
+}
+.booking-button button:focus {
+  outline:none;
+}
+
+
+
+.artist-section h1{
+  text-align: center;
+  background-color: #333333;
+  color: #ffffff;
+  padding: 30px 50px;
+  font-size: 25px;
+  margin-top:20px;
+}
+.artist-staff a{
+text-align: center;
+padding-left: 470px;
+font-size: 30px;
+}
+.artist-heading h1{
+font-family: 'Rye', cursive;;
+}
+.staff-section img{
+  margin-left: 15px;
+  padding: 30px;
+  display: inline-block;
+}
+.staff-section a{
+padding-left:45px;
+}
+.view-portfolio-section button{
+padding-left: 50px
+}
+
+.view-portfolio-button  button {
+  border:none;
+  background-color: #ff931e;
+  color:#ffffff;
+  font-weight: bold;
+  padding:10px 15px;
+  margin-left:35px;
+}
+.view-portfolio-button button:hover {
+  background-color: #555555;
+  color: #eeeeee;
+}
+button:focus {
+  outline:none;
+}
+
+
+.news-and-updates-heading h1 {
+  font-family: 'Rye', cursive;
+  text-align: center;
+  background-color: #333333;
+  color: #ffffff;
+  padding: 30px 50px;
+  font-size: 25px;
+  margin-top:20px;
+}
+.news-and-updates h2 a{
+  padding-left: 10px;
+}
+.manuela-video iframe{
+  margin-left: 750px;
+}
+.wildfire-video iframe{
+  margin-left: 750px;
+}
+
+
+
+
+.contact-heading h1 {
+  font-family: 'Rye', cursive;
+  text-align: center;
+  background-color: #333333;
+  color: #ffffff;
+  padding: 30px;
+  width:100%;
+  font-size: 25px;
+  margin-top:110px;
+  position: absolute;
+}
+.location-button button:hover {
+  background-color: #555555;
+  color: #eeeeee;
+}
+button:focus {
+  outline:none;
+}
+.location-button a{
+  position: absolute;
+  padding-left: 558px;
+   padding-top: 190px;
+}
+
+
+<!------- added from css 2 ------->
+
+
+.faq-section h1{
+text-align: center;
+background-color: #333333;
+color: #ffffff;
+padding: 30px 621px;
+font-size: 25px;
+margin-top:620px;
+position: absolute;
+}
+.faq-section p{
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #999999;
+}
+.faq-section h3{
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #ff931e; 
+}
+.contact-heading {
+margin-top: 500px;
+}
+.contact-footer{
+  background-color: #333333; 
+  padding-bottom: 50px;
+  padding-left: 250px;
+}
+.portfolio-heading h1{
+  text-align: center;
+background-color: #333333;
+color: #ffffff;
+padding: 30px 621px;
+font-size: 25px;
+position: absolute;
+}
+.gallery img{
+  margin-top: 105px;
+}
+.tattoo-images img{
+  position: absolute;
+  display: inline-block;
+}
+.footer-navbar nav ul li{
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+ }
+.footer-navbar ul{
+  background-color: #333333;
+}
+.working-hours a{
+ font-family: 'Open Sans Condensed', sans-serif; 
+}
+.location-header h1{
+  font-family: 'Rye', cursive;
+}
+.background{
+  background-color: #1a1a1a;
+}
